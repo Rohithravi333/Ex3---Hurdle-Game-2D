@@ -36,8 +36,8 @@ Run the scene and display the output.
 
 ## PROGRAM :
 
-### DEVELOPED BY : Rohith r
-### REG NO : 212222230121
+### DEVELOPED BY : ROHITH
+### REG NO : 2122222230121
 
 ### player.cs :
 ```
